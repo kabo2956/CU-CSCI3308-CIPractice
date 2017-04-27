@@ -1,5 +1,5 @@
 language: c
 compiler: gcc
 install: 
-	-make 
+	-make test 
 script: ./test
