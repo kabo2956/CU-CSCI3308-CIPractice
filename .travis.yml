@@ -1,5 +1,4 @@
 language: c
 compiler: gcc
-install: 
-	-make test 
+install: make test 
 script: ./test
