@@ -2,6 +2,7 @@
 # CI Practice
 # Summer 2014
 
+
 CC = gcc
 CFLAGS = -c -g -Wall -Wextra
 LFLAGS = -g -Wall -Wextra
