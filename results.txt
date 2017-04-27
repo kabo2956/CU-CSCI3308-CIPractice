@@ -1,0 +1,4 @@
+Part 1
+2)No errors during make
+3) All the tests pass
+4)
